@@ -38,10 +38,13 @@
     "react": "^16.4.2",
     "react-art": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-native-web": "^0.8.9",
-    "rollup": "^0.63.5",
-    "rollup-plugin-babel": "^3.0.7",
-    "rollup-plugin-commonjs": "^9.1.4",
-    "rollup-plugin-node-resolve": "^3.3.0"
+    "react-native-web": "^0.8.9"
+  },
+  "peerDependencies": {
+    "date-fns": "^1.29.0",
+    "react": "^16.4.2",
+    "react-art": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-native-web": "^0.8.9"
   }
 }
