@@ -14,7 +14,6 @@
   "author": "Trevor Waddell <trevwaddell@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "date-fns": "^1.29.0",
     "react": "^16.4.2",
     "react-art": "^16.4.2",
     "react-dom": "^16.4.2",
@@ -43,7 +42,6 @@
     "jest": "^23.4.2"
   },
   "peerDependencies": {
-    "date-fns": "^1.29.0",
     "react": "^16.4.2",
     "react-art": "^16.4.2",
     "react-dom": "^16.4.2",
