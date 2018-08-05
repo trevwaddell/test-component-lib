@@ -1,0 +1,16 @@
+{
+  "presets": [["env", { "modules": false }], "react"],
+  "plugins": [
+    ["react-native-web", { "commonjs": true }],
+    "transform-class-properties",
+    [
+      "module-resolver",
+      {
+        "root": ["./lib"],
+        "alias": {
+          "^react-native$": "react-native-web"
+        }
+      }
+    ]
+  ]
+}
