@@ -1,6 +1,6 @@
 {
   "name": "test-lib-uc",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "test ",
   "main": "build/index.js",
   "scripts": {
