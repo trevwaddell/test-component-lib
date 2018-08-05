@@ -1,8 +1,8 @@
 {
-  "presets": [["env", { "modules": "commonjs" }], "react"],
+  "presets": ["env", "react"],
   "plugins": [
     ["react-native-web", { "commonjs": true }],
-    "transform-class-properties", "babel-plugin-transform-es2015-modules-commonjs",
+    "transform-class-properties",
     [
       "module-resolver",
       {
